@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "name": "Desenvolvimento de site",
+      "value": 14000,
+      "type": "Venda",
+      "createdAt": "2022-08-11T22:31:26.920Z",
+      "variant": "income"
+    },
+    {
+      "id": 2,
+      "name": "Hamburger",
+      "value": 50,
+      "type": "Alimentação",
+      "createdAt": "2022-08-11T22:31:26.920Z",
+      "variant": "outcome"
+    },
+    {
+      "id": 3,
+      "name": "Conta de luz",
+      "value": 290.5,
+      "type": "Luz",
+      "createdAt": "2022-08-11T22:59:26.920Z",
+      "variant": "outcome"
+    },
+    {
+      "name": "Faculdade",
+      "type": "Estudos",
+      "value": 188,
+      "variant": "outcome",
+      "createdAt": "2022-08-12T01:06:44.350Z",
+      "id": 4
+    },
+    {
+      "name": "Livros da escola",
+      "type": "Estudos",
+      "value": 190,
+      "variant": "outcome",
+      "createdAt": "2022-08-12T01:18:00.438Z",
+      "id": 5
+    },
+    {
+      "name": "Trabalhos terceirizados",
+      "type": "Freelaa",
+      "value": 12000,
+      "variant": "income",
+      "createdAt": "2022-08-12T01:36:09.581Z",
+      "id": 6
+    }
+  ]
+}
